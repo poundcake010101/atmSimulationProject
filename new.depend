@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1696126515 source:c:\users\kaelo alphi gops\downloads\new\main.cpp
+	<iostream>
+	<fstream>
+	<random>
+
+1696206734 source:c:\users\kaelo alphi gops\downloads\new\new\main.cpp
+	<iostream>
+	<fstream>
+	<random>
+
